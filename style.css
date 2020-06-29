@@ -79,6 +79,7 @@ section{
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
     height: 80%;
+    background: white;
 }
 
 #full-stack{
@@ -90,5 +91,10 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg,#0010FF, #00ECFF);
     border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    color: gray;
 }
 
