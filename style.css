@@ -78,7 +78,7 @@ section{
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
-    height: 80%;
+    height: 70%;
     background: white;
 }
 
@@ -96,5 +96,6 @@ section{
 footer p{
     text-align: center;
     color: gray;
+    font-size: 10px;
 }
 
